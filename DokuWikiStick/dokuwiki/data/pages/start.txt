@@ -10,6 +10,6 @@ I may use this world for a ttrpg game in the future, but until then I will be st
 
 [[Food|Food]]
 
-[[Legends|Legends]]
+[[legends:Legends|Legends]]
 
-[[Cities|Cities]]
+[[cities:Cities|Cities]]
