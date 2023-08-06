@@ -1,0 +1,7 @@
+[Fri Aug 04 16:06:25.961834 2023] [mpm_winnt:notice] [pid 11256:tid 688] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Fri Aug 04 16:06:25.961834 2023] [mpm_winnt:notice] [pid 11256:tid 688] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Fri Aug 04 16:06:25.961834 2023] [core:notice] [pid 11256:tid 688] AH00094: Command line: 'mapache.exe -d C:/Users/esnak/Downloads/dokuwiki/DokuWikiStick/server'
+[Fri Aug 04 16:06:25.965973 2023] [mpm_winnt:notice] [pid 11256:tid 688] AH00418: Parent: Created child process 15588
+[Fri Aug 04 16:06:26.433868 2023] [mpm_winnt:notice] [pid 15588:tid 676] AH00354: Child: Starting 24 worker threads.
+[Fri Aug 04 16:06:26.536012 2023] [authz_core:error] [pid 15588:tid 868] [client 127.0.0.1:52361] AH01630: client denied by server configuration: C:/Users/esnak/Downloads/dokuwiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Fri Aug 04 16:08:06.154037 2023] [authz_core:error] [pid 15588:tid 876] [client ::1:52368] AH01630: client denied by server configuration: C:/Users/esnak/Downloads/dokuwiki/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
