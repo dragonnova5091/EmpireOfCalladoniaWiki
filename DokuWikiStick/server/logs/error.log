@@ -10,3 +10,4 @@
 [Sun Aug 06 08:22:08.914154 2023] [mpm_winnt:notice] [pid 5636:tid 628] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
 [Sun Aug 06 08:22:08.914154 2023] [core:notice] [pid 5636:tid 628] AH00094: Command line: 'mapache.exe -d C:/Users/esnak/Documents/dokuwiki/EmpireOfCalladoniaWiki/DokuWikiStick/server'
 [Sun Aug 06 08:22:08.917216 2023] [mpm_winnt:notice] [pid 5636:tid 628] AH00418: Parent: Created child process 1960
+[Sun Aug 06 08:22:09.254133 2023] [mpm_winnt:notice] [pid 1960:tid 704] AH00354: Child: Starting 24 worker threads.
