@@ -8,8 +8,4 @@ I may use this world for a ttrpg game in the future, but until then I will be st
 
 [[Geography|Geography]]
 
-[[Food|Food]]
-
-[[legends:Legends|Legends]]
-
-[[cities:Cities|Cities]]
+[[culture:Culture|Culture]]
