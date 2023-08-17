@@ -21,3 +21,15 @@
 [Wed Aug 16 11:59:57.387384 2023] [mpm_winnt:warn] [pid 7428:tid 1404] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
 [Wed Aug 16 11:59:57.387384 2023] [mpm_winnt:warn] [pid 7428:tid 1292] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
 [Wed Aug 16 12:00:09.539164 2023] [mpm_winnt:notice] [pid 7428:tid 744] AH00364: Child: All worker threads have exited.
+[Wed Aug 16 16:01:07.083677 2023] [core:warn] [pid 23792:tid 220] AH00098: pid file C:/Users/Ethan Hunter/Documents/WindowsPowerShell/EmpireOfCalladoniaWiki/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 16 16:01:07.407999 2023] [mpm_winnt:notice] [pid 23792:tid 220] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Aug 16 16:01:07.407999 2023] [mpm_winnt:notice] [pid 23792:tid 220] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Aug 16 16:01:07.407999 2023] [core:notice] [pid 23792:tid 220] AH00094: Command line: 'mapache.exe -d C:/Users/Ethan Hunter/Documents/WindowsPowerShell/EmpireOfCalladoniaWiki/DokuWikiStick/server'
+[Wed Aug 16 16:01:07.410992 2023] [mpm_winnt:notice] [pid 23792:tid 220] AH00418: Parent: Created child process 21228
+[Wed Aug 16 16:01:07.968328 2023] [mpm_winnt:notice] [pid 21228:tid 704] AH00354: Child: Starting 24 worker threads.
+[Wed Aug 16 19:30:19.605006 2023] [core:warn] [pid 15188:tid 592] AH00098: pid file C:/Users/Ethan Hunter/Documents/WorldBuilding/EmpireOfCalladoniaWiki/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Aug 16 19:30:19.651881 2023] [mpm_winnt:notice] [pid 15188:tid 592] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
+[Wed Aug 16 19:30:19.651881 2023] [mpm_winnt:notice] [pid 15188:tid 592] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
+[Wed Aug 16 19:30:19.651881 2023] [core:notice] [pid 15188:tid 592] AH00094: Command line: 'mapache.exe -d C:/Users/Ethan Hunter/Documents/WorldBuilding/EmpireOfCalladoniaWiki/DokuWikiStick/server'
+[Wed Aug 16 19:30:19.654873 2023] [mpm_winnt:notice] [pid 15188:tid 592] AH00418: Parent: Created child process 16320
+[Wed Aug 16 19:30:20.224338 2023] [mpm_winnt:notice] [pid 16320:tid 700] AH00354: Child: Starting 24 worker threads.
