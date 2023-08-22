@@ -6,16 +6,32 @@ In the first age, the Nomads were still learning what they could eat and not, so
 === Early Sansuvut Gastronomy ===
 
 One of the first recipes that the Sansuvut probably made would've been smoked and salted meats. Likely using similar methods to today, they would start a small fire, and create a tripod of long sticks. Then they would tie the meat to the poles with string and wrap the smoker in a cloth allowing the meat to cure. it is crucial for the Sansuvut of today to cure and store meats for their journeys over the long winters, and it is likely they have passed these methods down through generations. 
-Fruits are abundant throughout the forests that border the Derina Valley, so the sansuvut likely collected and ate these fruits throughout the year. likely discovered early in Sansuvut history, it is crucial that a dietary balance is preserved through the year. Their preservation techniques were similar for both fruit and meat for a long time. dried and smoked meats and fruits allowed the sansuvut to keep their food stable throughout the long winter. 
+[[geography:plants:fruits|Fruits]] are abundant throughout the forests that border the Derina Valley, so the sansuvut likely collected and ate these fruits throughout the year. likely discovered early in Sansuvut history, it is crucial that a dietary balance is preserved through the year. Their preservation techniques were similar for both fruit and meat for a long time. dried and smoked meats and fruits allowed the Sansuvut to keep their food stable throughout the long winter. 
 
 [[culture:food:recipes:Dried_Fruit_and_Meat|Dried Fruit and Meat]]
 
 **Preservation through fermentation**
 
-The biggest advancement in food preservation techniques came with the invention of pottery. This allowed the Sansuvut to begin fermenting fruits into wines and vinegar. It is assumed that a pot full of fresh fruit was forgotten and when the early nomad return they had discovered a delicious pot of wine. What was then soon discovered was that stirring wine will lead to it becoming vinegar.
+The biggest advancement in food preservation techniques came with the invention of [[culture:artifacts:pottery|pottery]]. This allowed the Sansuvut to begin fermenting fruits into wines and vinegar. It is assumed that a pot full of fresh fruit was forgotten and when the early nomad return they had discovered a delicious pot of wine. What was then soon discovered was that stirring wine will lead to it becoming vinegar. 
 
 [[culture:food:recipes:Fruit_Wine_and_Vinegar|Fruit Wine and Vinegar]]
 
+Pretty quickly the Sansuvut learned a method of sealing the clay pots with a wax mixture on the outside of the pots. This allowed the early nomads to seal liquid into the jars without it leaking out over time. Long term storage of food and drink allowed people to quickly developing surpluses of food, and to begin experimenting.
+The next experiment the early Sansuvut seem to have attempted is the collection of reindeer milk. The milk was preserved into [[culture:food:recipes:Milk_Products|butter]], [[culture:food:recipes:Milk_Products|cheese]], and [[culture:food:recipes:Milk_Products|yogurt]]. 
 
+**Boiling Methods**
 
+Around the time the Sansuvut began to ferment food in pots, they also discovered [[culture:food:cookware:Stone_Boiling|Stone Boiling]], and began using this method to purify water. They also began creating ovens at the Monoliths to Leluka. While Stone Boiling is no longer commonly used in households, it still is used fairly often by tribes that travel through some of the most remote areas of the brush, often opting to leave behind the heavy stands used to hang pots over a fire. 
+
+[[culture:food:recipes:salt|Salt]] became a staple of early recipes, assumed to have been discovered by accidentally over boiling sea water. [[culture:food:recipes:salted_meat|Salted Meats]] soon became another common way to preserve food over winter.
+
+**Integration of Wild Plants into the Diet**
+
+One of the most well known plants to be incorporated into early nomad diet is the [[geography:plants:Kala_Bulb|Kala Bulb]](similar to garlic). Found in vernal ponds, the bulb grows rapidly in spring and summer, with a long stem, and flowers that float on the surface of the pond. This long stem is harvested and used to add a flavor to many dishes. Another plant discovered by the early nomads are a family of tubers called the [[geography:plants:Tubers|Pallen]]. This starchy tuber provided a base for many foods, including a very [[culture:food:recipes:Meat_And_Pallen_Stew|simple Meat and Pallen Stew]]. In addition to meat and a handful of Pallen, leafy greens such as, [[geography:plants:Leafy_Greens|Saalati, Konban, and Tuuluu]], were added alongside other [[geography:plants:Tubers|Tubers]]. The variations of available ingredients allowed the simple stew to grow in complexity. Simple cheeses were added and yogurts were mixed in when available.
+
+The earliest record of [[geography:plants:cereal_grains|cereal grains]] being collected dates back to the middle of the first age. These grains were stored in large clay pots and would last for months this way. When they were to be used, they would be threshed, and the chaff would be blown off using large leaf fans. The remaining grains would be soaked, then left to dry in the sun. The grains would start to sprout but would be collected and ground into a coarse flour. This flour would be mixed with various liquids to form [[culture:food:recipes:breads|bread]]. It would be later discovered that soaking the grain in the fermenting pots would lead to [[culture:recipes:food:beer|beer]] being brewed. While never being as popular as wine, beer has been enjoyed in every culture since then, due to it being easier and cheaper to make. 
+
+**The Hunt for Spice**
+
+At this point, the groundwork had been laid and the hunt for new ingredients began. It wouldn't be until the founding of [[culture:cities:paterdoma|Paterdoma, the Burning City]] that cooking would start making leaps and bounds. But until then the nomads would scour Serberistan for new ingredients.
 
