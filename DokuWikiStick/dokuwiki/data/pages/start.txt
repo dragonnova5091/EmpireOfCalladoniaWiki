@@ -1,5 +1,6 @@
 ======The Empire of Calladonia is my personal world building project.======
 
+I sometimes write blog posts about it on my [[https://dragonsquill.substack.com/|Blog]]. Go check it out, I post updates and stories from my world.
 
 I may use this world for a ttrpg game in the future, but until then I will be storing all the info for it here.
 
@@ -9,3 +10,5 @@ I may use this world for a ttrpg game in the future, but until then I will be st
 [[Geography|Geography]]
 
 [[culture:Culture|Culture]]
+
+[[cities:cities|Cities]]

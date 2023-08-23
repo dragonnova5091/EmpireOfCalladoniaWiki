@@ -11,7 +11,7 @@ The nobility of Surniam is generally well liked by the population, Count Marcus 
 **The Combat Ring:**
  This is a training ground for many martial combatants. Many older soldiers and mercenaries settle down here to pass on their skills to the next generation. Fighters, Barbarians, Paladins, Rangers, and Rogues can use this as a place of origin. 
 The Master Swordsman leads the Ring is named Lucius Normand.
-Side Quest: Escort a shipment of weapons from Atlatipoca to the Combat Ring.
+Side Quest: Escort a shipment of weapons from Alakan to the Combat Ring.
 
 **The Inverted Tower:** This tower has been built into the ground as opposed to rising up into the air. The many layers of the tower allow for students to practice spells without risk of the spells getting out of control and hurting civilians. Many of the mages here could not have made their way to Alfheim, but still seek to improve their craft and teach the younger generations. Rogues, Warlocks, Bards, Sorcerers, and Wizards can use this as a place of origin.
 The Master Wizard is named Branamir Barcillius.
@@ -23,7 +23,7 @@ The Temple is a Unitarian Place of Worship. Any sect can set up a time and idol 
 Side Quest: Pick some alpine sage for the incense in the temple.
 
 **The Grand Jax Mines:** The mines are ancient, having been used for nearly a millennium delving deeper and deeper into the mountains. Throughout the centuries, branches of the mines have collapsed and new ones have been mined to fuel the gemstone trade. As the years pass, the mines are becoming less and less profitable, and Jax is having trouble keeping the mine open. In the third age, the GJM switched to using automatons instead of Sanir to do the labor, but as the years have passed the automatons have slowly malfunctioned or gotten crushed under falling rock. Without a way to fix them, Jax has been considering hiring Sanir from Surniam to pad his workforce.
-The gemstones from the mines are sold to the Capitol, Paterdoma, and Atlatipoca for jewelry.
+The gemstones from the mines are sold to the Capitol, Paterdoma, and Alakan for jewelry.
 
 **Longship Longhouse:** Many years ago, someone lifted a longship from the oceans below and turned it into a longhouse at the tip of the peninsula. The longhouse is about 150’ long and serves about 100 people at a time. It is used for feasts and festivals, as well as day to day restaurant service and a bar. Young lovers use it often as a date destination, and businessmen often hold meetings at its tables. 
 The hull of the boat has provided a waterproof ceiling for decades and allowed the Longship Longhouse to stay the primary meeting place in Surniam for centuries. 
@@ -206,6 +206,6 @@ Once the PCs return to Surniam, If Igor did not win the election, the keep will 
 If Igor did win the election, then Commodus will have been pardoned, and he fled the city. None of the following will apply in this case.
 
 Bounty: Commodus Arelius: 500 gp Dead. 1500gp Alive.
-He has fled to Atlatipoca and lives with the Suomalainen.
+He has fled to Alakan and lives with the Suomalainen.
 Missing Sansuvut
 Surniam has not received the regular tribes traveling from the north. The absence has started to worry many of the traders who rely on the ability to export their goods through the caravans.
