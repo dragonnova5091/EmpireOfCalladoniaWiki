@@ -1,6 +1,15 @@
+The lands of Serberistan are far reaching, and the cultures are not few. Although all cultures originally stemmed from the Sansuvut Nomads, they have long since diverged and become unique in their own right. 
+
+=== Cultural Development ===
+
+Cultures develop over time, their longstanding traditions, gastronomy, and stories are developed slowly, over centuries. As culture changes, so do their elements.  I go over a view of culture through food here:
 
 [[culture:food:Food|Food]]
 
+Stories also contribute greatly to a cultural identity. You can find stories from all the cultures here:
+
 [[culture:legends:Legends|Legends]]
 
-[[culture:cities:Cities|Cities]]
+As with every culture, traditions and superstitions shape every day life. Whether that's marriage, habits, prayer, or any other nuance of a culture, I have listed them by culture here:
+
+[[culture:traditions:traditions_and_superstitions|Traditions and Superstitions]]
