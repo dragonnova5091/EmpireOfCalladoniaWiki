@@ -1,11 +1,3 @@
-1692211386	127.0.0.1	E	start		external edit		14
-1692211548	::1	E	start		[You may be interested in a few different topics] 		15
-1692211575	::1	C	culture:food:food		created		43
-1692211610	::1	E	start		organizing		-69
-1692211617	::1	C	culture:culture		created		98
-1692211892	::1	E	culture:food:food		 early sansuvut		423
-1692212392	::1	E	culture:food:food		did some writing		758
-1692226792	127.0.0.1	E	culture:food:food		external edit		8
 1692239369	::1	E	culture:food:food				532
 1692239765	::1	E	culture:food:food		added some recipe links		231
 1692240623	::1	C	culture:food:recipes:dried_fruit_and_meat		created		763
@@ -25,26 +17,28 @@
 1692670874	::1	E	culture:food:food		formatting		0
 1692671116	::1	E	culture:food:food		added some stuff		267
 1692671641	::1	E	culture:food:food		the hunt for spice		325
+1692803508	127.0.0.1	E	start		external edit		11
+1692803508	127.0.0.1	C	culture:cities:cities		created - external edit		572
+1692803508	127.0.0.1	E	culture:culture		external edit		5
+1692803545	127.0.0.1	E	culture:cities:surniam		external edit		210
+1692803545	127.0.0.1	E	culture:food:food		external edit		37
 1692806190	::1	C	geography		created		162
 1692806223	::1	E	geography		formatting		3
-1692803508	127.0.0.1	E	start		external edit		11
 1692806383	::1	E	start		linked the blog		137
 1692806731	::1	C	culture:cities:paterdoma		created		40
-1692803508	127.0.0.1	C	culture:cities:cities		created - external edit		572
 1692806778	::1	E	culture:cities:cities		naming		5
-1692803545	127.0.0.1	E	culture:cities:surniam		external edit		210
 1692806825	::1	E	culture:cities:surniam		atlatlipoca was  shit name, now Alakan		-222
 1692809660	::1	E	culture:cities:paterdoma		adding early history		2388
+1692809660	127.0.0.1	C	cities:paterdoma		created - external edit		2428
 1692809859	::1	E	culture:cities:cities		wording		160
+1692809859	127.0.0.1	C	cities:cities		created - external edit		737
 1692813952	::1	E	start		cities		25
-1692803545	127.0.0.1	E	culture:food:food		external edit		37
 1692813983	::1	E	culture:food:food		redoing links		-45
 1692814110	::1	E	geography		added animals		169
 1692814118	::1	E	geography		1		2
 1692814213	::1	E	geography		added regions 		112
-1692809859	127.0.0.1	C	cities:cities		created - external edit		737
 1692814300	::1	E	cities:cities		the grand 7		-104
-1692803508	127.0.0.1	E	culture:culture		external edit		5
 1692817080	::1	E	culture:culture		context		786
-1692809660	127.0.0.1	C	cities:paterdoma		created - external edit		2428
 1692817227	::1	E	cities:paterdoma		more info		227
+1692842923	127.0.0.1	E	cities:paterdoma		external edit		24
+1692843946	::1	E	cities:paterdoma		quick bit of info		547
