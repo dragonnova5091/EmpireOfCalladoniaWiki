@@ -1,3 +1,7 @@
+1692239369	::1	E	culture:food:food				532
+1692239765	::1	E	culture:food:food		added some recipe links		231
+1692240623	::1	C	culture:food:recipes:dried_fruit_and_meat		created		763
+1692240986	::1	E	culture:food:recipes:dried_fruit_and_meat		Dried Meats and fruits 		339
 1692402673	127.0.0.1	E	culture:food:food		external edit		21
 1692403043	::1	C	culture:cities:surniam		created		23680
 1692403104	::1	E	culture:cities:surniam		formatting		56
@@ -38,3 +42,5 @@
 1692817227	::1	E	cities:paterdoma		more info		227
 1692803508	127.0.0.1	C	cities:sansuvut_nomads		created - external edit		586
 1692902593	::1	E	cities:sansuvut_nomads		small changes		543
+1692842923	127.0.0.1	E	cities:paterdoma		external edit		24
+1692843946	::1	E	cities:paterdoma		quick bit of info		547
