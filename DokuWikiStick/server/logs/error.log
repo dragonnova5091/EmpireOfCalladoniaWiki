@@ -56,9 +56,3 @@
 [Wed Aug 23 12:06:22.646784 2023] [mpm_winnt:notice] [pid 12764:tid 588] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
 [Wed Aug 23 12:06:22.646784 2023] [core:notice] [pid 12764:tid 588] AH00094: Command line: 'mapache.exe -d C:/Users/ehunter/Personal/EmpireOfCalladoniaWiki/DokuWikiStick/server'
 [Wed Aug 23 12:06:22.652784 2023] [mpm_winnt:notice] [pid 12764:tid 588] AH00418: Parent: Created child process 22576
-[Wed Aug 23 19:10:28.447827 2023] [core:warn] [pid 19544:tid 624] AH00098: pid file C:/Users/esnak/Documents/dokuwiki/EmpireOfCalladoniaWiki/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
-[Wed Aug 23 19:10:28.981866 2023] [mpm_winnt:notice] [pid 19544:tid 624] AH00455: Apache/2.4.46 (Win32) PHP/7.4.12 configured -- resuming normal operations
-[Wed Aug 23 19:10:28.981866 2023] [mpm_winnt:notice] [pid 19544:tid 624] AH00456: Apache Lounge VS16 Server built: Oct  2 2020 10:45:47
-[Wed Aug 23 19:10:28.981866 2023] [core:notice] [pid 19544:tid 624] AH00094: Command line: 'mapache.exe -d C:/Users/esnak/Documents/dokuwiki/EmpireOfCalladoniaWiki/DokuWikiStick/server'
-[Wed Aug 23 19:10:28.989082 2023] [mpm_winnt:notice] [pid 19544:tid 624] AH00418: Parent: Created child process 13668
-[Wed Aug 23 19:10:29.591556 2023] [mpm_winnt:notice] [pid 13668:tid 528] AH00354: Child: Starting 24 worker threads.
