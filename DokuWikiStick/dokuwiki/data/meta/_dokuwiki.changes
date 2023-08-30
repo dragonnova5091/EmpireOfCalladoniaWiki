@@ -1,28 +1,3 @@
-1692239369	::1	E	culture:food:food				532
-1692239765	::1	E	culture:food:food		added some recipe links		231
-1692240623	::1	C	culture:food:recipes:dried_fruit_and_meat		created		763
-1692240986	::1	E	culture:food:recipes:dried_fruit_and_meat		Dried Meats and fruits 		339
-1692402673	127.0.0.1	E	culture:food:food		external edit		21
-1692403043	::1	C	culture:cities:surniam		created		23680
-1692403104	::1	E	culture:cities:surniam		formatting		56
-1692403457	::1	C	culture:food:recipes:fruit_wine_and_vinegar		created		374
-1692403785	::1	E	culture:food:food		more info on pottery		326
-1692500428	::1	E	culture:food:food		cheese yogurt and butter		284
-1692504534	::1	E	culture:food:food		food based off wild plants		2189
-1692669482	::1	C	geography:plants:leafy_greens		created, and added Saalati		760
-1692669976	::1	C	geography:plants:kala_bulb		created		584
-1692670233	::1	E	geography:plants:kala_bulb		more info		579
-1692670540	::1	C	sidebar		created		17
-1692670853	::1	E	culture:food:food		added regular boiling		172
-1692670874	::1	E	culture:food:food		formatting		0
-1692671116	::1	E	culture:food:food		added some stuff		267
-1692671641	::1	E	culture:food:food		the hunt for spice		325
-1692803508	127.0.0.1	E	start		external edit		11
-1692803508	127.0.0.1	C	culture:cities:cities		created - external edit		572
-1692803508	127.0.0.1	E	culture:culture		external edit		5
-1692803545	127.0.0.1	E	culture:cities:surniam		external edit		210
-1692803545	127.0.0.1	E	culture:food:food		external edit		37
-1692806190	::1	C	geography		created		162
 1692806223	::1	E	geography		formatting		3
 1692806383	::1	E	start		linked the blog		137
 1692806731	::1	C	culture:cities:paterdoma		created		40
@@ -40,7 +15,9 @@
 1692814300	::1	E	cities:cities		the grand 7		-104
 1692817080	::1	E	culture:culture		context		786
 1692817227	::1	E	cities:paterdoma		more info		227
-1692803508	127.0.0.1	C	cities:sansuvut_nomads		created - external edit		586
-1692902593	::1	E	cities:sansuvut_nomads		small changes		543
 1692842923	127.0.0.1	E	cities:paterdoma		external edit		24
 1692843946	::1	E	cities:paterdoma		quick bit of info		547
+1692902593	::1	E	cities:sansuvut_nomads		small changes		543
+1693416167	::1	C	culture:traditions:traditions_and_superstitions		created		391
+1693417068	::1	E	culture:traditions:traditions_and_superstitions		added some monsters		774
+1693417081	::1	E	culture:traditions:traditions_and_superstitions		formatting		-1
